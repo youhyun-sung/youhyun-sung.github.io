@@ -10,25 +10,25 @@ classes: wide
 
 <p><em>A few moments — research, travel, and life in between. Click a photo to open.</em></p>
 
-<!-- Per-group captions: edit title + description freely -->
+<!-- Per-group captions: edit markdown files in /_gallery/ -->
+{% assign gallery_items = site.gallery | sort: 'order' %}
 <script type="application/json" id="yh-gallery-data">
 [
-  { "group": "1", "title": "Moment 1",  "description": "설명을 여기에 적어주세요. 각 그룹의 이야기/배경/날짜 등을 자유롭게 쓸 수 있어요." },
-  { "group": "2", "title": "Hawaii",    "description": "Aloha from paradise. 하와이에서의 휴가." },
-  { "group": "3", "title": "Artwork",   "description": "좋아하는 작품 앞에서." },
-  { "group": "4", "title": "Baking",    "description": "홈메이드 진저브레드 쿠키 데이." },
-  { "group": "5", "title": "Graduation","description": "서울대학교 미학과 석사 졸업." },
-  { "group": "6", "title": "Desert",    "description": "사막에서의 점프샷." },
-  { "group": "7", "title": "Exhibition","description": "전시장에서." },
-  { "group": "8", "title": "Tango",     "description": "탱고 무대에서." }
+{% for item in gallery_items %}
+  {
+    "group": "{{ item.group }}",
+    "title": {{ item.title | jsonify }},
+    "description": {{ item.content | strip | jsonify }},
+    "photos": {{ item.photos | default: 3 }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
 ]
 </script>
 
 <div class="yh-gallery">
-  {% assign groups = "1,2,3,4,5,6,7,8" | split: "," %}
-  {% for g in groups %}
-    <button type="button" class="yh-gallery-item" data-group="{{ g }}" aria-label="Open gallery {{ g }}">
-      <img src="/images/gallery/g{{ g }}.1.jpg" alt="gallery {{ g }}" loading="lazy">
+  {% for item in gallery_items %}
+    <button type="button" class="yh-gallery-item" data-group="{{ item.group }}" aria-label="Open {{ item.title }}">
+      <img src="/images/gallery/g{{ item.group }}.1.jpg" alt="{{ item.title }}" loading="lazy">
     </button>
   {% endfor %}
 </div>
@@ -88,6 +88,15 @@ classes: wide
     align-items: center;
     justify-content: center;
     padding: 24px;
+  }
+  body.yh-modal-open .masthead {
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+  }
+  body.yh-modal-open .yh-modal,
+  body.yh-modal-open .yh-modal * {
+    pointer-events: auto;
   }
   .yh-modal-backdrop {
     position: absolute;
@@ -232,26 +241,31 @@ classes: wide
   var data = JSON.parse(document.getElementById('yh-gallery-data').textContent);
   var byGroup = {};
   data.forEach(function(d) { byGroup[d.group] = d; });
-  var GROUP_SIZE = 3;
 
   var modal = document.getElementById('yh-modal');
+  var modalCard = modal.querySelector('.yh-modal-card');
   var imgEl = document.getElementById('yh-modal-img');
   var titleEl = document.getElementById('yh-modal-title');
   var descEl = document.getElementById('yh-modal-desc');
   var counterEl = document.getElementById('yh-modal-counter');
   var dotsEl = document.getElementById('yh-modal-dots');
-  var current = { group: null, index: 1 };
+  var current = { group: null, index: 1, size: 3 };
+
+  function photoCount(group) {
+    var meta = byGroup[group];
+    return (meta && meta.photos) || 3;
+  }
 
   function render() {
-    var g = current.group, i = current.index;
+    var g = current.group, i = current.index, n = current.size;
     var meta = byGroup[g] || { title: '', description: '' };
     imgEl.src = '/images/gallery/g' + g + '.' + i + '.jpg';
     imgEl.alt = meta.title || ('gallery ' + g);
     titleEl.textContent = meta.title || '';
-    descEl.textContent = meta.description || '';
-    counterEl.textContent = i + ' / ' + GROUP_SIZE;
+    descEl.innerHTML = meta.description || '';
+    counterEl.textContent = i + ' / ' + n;
     dotsEl.innerHTML = '';
-    for (var k = 1; k <= GROUP_SIZE; k++) {
+    for (var k = 1; k <= n; k++) {
       var dot = document.createElement('span');
       if (k === i) dot.className = 'on';
       dotsEl.appendChild(dot);
@@ -260,17 +274,21 @@ classes: wide
 
   function open(group, index) {
     current.group = group;
-    current.index = ((index - 1 + GROUP_SIZE) % GROUP_SIZE) + 1;
+    current.size = photoCount(group);
+    current.index = ((index - 1 + current.size) % current.size) + 1;
     render();
     modal.style.display = 'flex';
+    document.body.classList.add('yh-modal-open');
     document.body.style.overflow = 'hidden';
   }
   function close() {
     modal.style.display = 'none';
+    document.body.classList.remove('yh-modal-open');
     document.body.style.overflow = '';
   }
   function step(delta) {
-    current.index = ((current.index - 1 + delta + GROUP_SIZE) % GROUP_SIZE) + 1;
+    var n = current.size;
+    current.index = ((current.index - 1 + delta + n) % n) + 1;
     render();
   }
   function isOpen() { return modal.style.display === 'flex'; }
@@ -282,6 +300,8 @@ classes: wide
   document.getElementById('yh-modal-backdrop').addEventListener('click', close);
   document.getElementById('yh-modal-prev').addEventListener('click', function() { step(-1); });
   document.getElementById('yh-modal-next').addEventListener('click', function() { step(1); });
+  modalCard.addEventListener('click', function(e) { e.stopPropagation(); });
+  imgEl.addEventListener('click', function(e) { e.stopPropagation(); });
 
   document.addEventListener('keydown', function(e) {
     if (!isOpen()) return;

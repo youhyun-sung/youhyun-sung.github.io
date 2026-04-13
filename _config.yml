@@ -124,6 +124,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: false
 
 
 # Defaults

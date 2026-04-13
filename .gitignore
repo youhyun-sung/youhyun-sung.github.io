@@ -7,5 +7,9 @@ Gemfile.lock
 /vendor/
 .claude/
 .omc/
+.codex/
+**/.codex
 Gallery/
 Personal Website.pdf
+image.png
+assets/js/vendor/
