@@ -1,0 +1,30 @@
+{% include base_path %}
+
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<!-- Atom feed bağlantısı -->
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<!-- Mobil uyumluluk için meta etiketleri -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- JavaScript desteği için class ekleme -->
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- CSS dosyasını bağla -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<!-- ClearType text rendering -->
+<meta http-equiv="cleartype" content="on">
+
+<!-- JavaScript dosyasını bağla -->
+<script src="{{ base_path }}/assets/js/colorChange.js" defer></script>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
