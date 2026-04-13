@@ -7,17 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-<p><em>A few moments — research, travel, and life in between.</em></p>
+<p><em>A few moments — research, travel, and life in between. Click a photo to view the full set.</em></p>
 
 <div class="yh-gallery">
-  <figure><img src='/images/gallery/g1.jpg' alt='gallery 1' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g2.jpg' alt='gallery 2' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g3.jpg' alt='gallery 3' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g4.jpg' alt='gallery 4' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g5.jpg' alt='gallery 5' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g6.jpg' alt='gallery 6' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g7.jpg' alt='gallery 7' loading='lazy'></figure>
-  <figure><img src='/images/gallery/g8.jpg' alt='gallery 8' loading='lazy'></figure>
+  {% assign groups = "1,2,3,4,5,6,7,8" | split: "," %}
+  {% for g in groups %}
+    <button type="button" class="yh-gallery-item" data-group="{{ g }}" aria-label="Open gallery {{ g }}">
+      <img src="/images/gallery/g{{ g }}.1.jpg" alt="gallery {{ g }}" loading="lazy">
+    </button>
+  {% endfor %}
+</div>
+
+<div class="yh-lightbox" id="yh-lightbox" hidden>
+  <button class="yh-lb-close" id="yh-lb-close" aria-label="Close">×</button>
+  <button class="yh-lb-nav yh-lb-prev" id="yh-lb-prev" aria-label="Previous">‹</button>
+  <img class="yh-lb-img" id="yh-lb-img" alt="">
+  <button class="yh-lb-nav yh-lb-next" id="yh-lb-next" aria-label="Next">›</button>
+  <div class="yh-lb-counter" id="yh-lb-counter"></div>
 </div>
 
 <style>
@@ -27,27 +33,120 @@ author_profile: true
     gap: 18px;
     margin: 24px 0;
   }
-  .yh-gallery figure {
-    margin: 0;
+  .yh-gallery-item {
+    padding: 0;
+    border: 0;
+    background: #f5f5f5;
+    cursor: pointer;
     overflow: hidden;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.08);
     aspect-ratio: 3 / 4;
-    background: #f5f5f5;
   }
-  .yh-gallery img {
+  .yh-gallery-item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
     transition: transform 200ms ease;
   }
-  .yh-gallery figure:hover img { transform: scale(1.04); }
+  .yh-gallery-item:hover img { transform: scale(1.05); }
+  @media (max-width: 900px) { .yh-gallery { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 480px) { .yh-gallery { grid-template-columns: 1fr; } }
 
-  @media (max-width: 900px) {
-    .yh-gallery { grid-template-columns: repeat(2, 1fr); }
+  .yh-lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.88);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  @media (max-width: 480px) {
-    .yh-gallery { grid-template-columns: 1fr; }
+  .yh-lightbox[hidden] { display: none; }
+  .yh-lb-img {
+    max-width: 90vw;
+    max-height: 85vh;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  }
+  .yh-lb-close, .yh-lb-nav {
+    position: absolute;
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    font-size: 32px;
+    line-height: 1;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 150ms ease;
+  }
+  .yh-lb-close:hover, .yh-lb-nav:hover { background: rgba(255,255,255,0.25); }
+  .yh-lb-close { top: 20px; right: 20px; }
+  .yh-lb-prev { left: 20px; top: 50%; transform: translateY(-50%); }
+  .yh-lb-next { right: 20px; top: 50%; transform: translateY(-50%); }
+  .yh-lb-counter {
+    position: absolute;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    font-size: 14px;
+    background: rgba(0,0,0,0.5);
+    padding: 6px 14px;
+    border-radius: 999px;
   }
 </style>
+
+<script>
+(function() {
+  var GROUP_SIZE = 3;
+  var lb = document.getElementById('yh-lightbox');
+  var img = document.getElementById('yh-lb-img');
+  var counter = document.getElementById('yh-lb-counter');
+  var current = { group: null, index: 1 };
+
+  function show(group, index) {
+    current.group = group;
+    current.index = ((index - 1 + GROUP_SIZE) % GROUP_SIZE) + 1;
+    img.src = '/images/gallery/g' + group + '.' + current.index + '.jpg';
+    counter.textContent = current.index + ' / ' + GROUP_SIZE;
+    lb.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    lb.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  document.querySelectorAll('.yh-gallery-item').forEach(function(btn) {
+    btn.addEventListener('click', function() { show(btn.dataset.group, 1); });
+  });
+
+  document.getElementById('yh-lb-close').addEventListener('click', close);
+  document.getElementById('yh-lb-prev').addEventListener('click', function() {
+    show(current.group, current.index - 1);
+  });
+  document.getElementById('yh-lb-next').addEventListener('click', function() {
+    show(current.group, current.index + 1);
+  });
+
+  lb.addEventListener('click', function(e) {
+    if (e.target === lb) close();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (lb.hidden) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowLeft') show(current.group, current.index - 1);
+    if (e.key === 'ArrowRight') show(current.group, current.index + 1);
+  });
+})();
+</script>
