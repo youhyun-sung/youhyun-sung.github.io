@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an undergraduate student in the Department of German Language and Literature at **Hanyang University** in Korea. I am interested in International Relationships, Marketing, Philosophy and Design as well. My goal in life is to broaden my academic knowledge and to gratify my curiosity toward the unknown world.
+Hello! I'm **Youhyun (Amy) Sung**.
 
-Please contact me if you want to know more about me! See [CV](/cv/) for more information.
+I am currently working as a **Research Assistant** in the [Cognitive Systems Lab](https://cogsyslab.notion.site/) at **Korea University**'s Brain and Cognitive Engineering department, under the supervision of [Professor Christian Wallraven](https://scholar.google.com/citations?hl=en&user=VJuuzLwAAAAJ).
+
+My research began with a question that has guided me for many years:
+
+> *"What forms of perception and experience are uniquely human?"*
+
+During my master's studies in **Aesthetics at Seoul National University**, I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
+
+I am currently studying the intersections of **illusion, visual perception, and empirical aesthetics** through the use of **Op Art images**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, interpret, and assign value to images.
 
 ---
 
-## Research Interest
-- **Design Marketing**
-- **Human-Oriented Thinking**
-- **International Relationship**
-- **Business Communication**
-
----
-
-## Languages
-- **Korean** (Native)
-- **English** (Fluent, C1)
-- **German** (Fluent, C1)
-- **French** (Basic, A2–B1)
+## Research Interests
+- **Visual Perception**
+- **Spatial Perception**
+- **Psychology**
+- **Illusion**
+- **Neuroaesthetics**
+- **Empirical Aesthetics**
