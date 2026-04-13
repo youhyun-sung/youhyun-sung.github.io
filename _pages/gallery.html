@@ -19,7 +19,7 @@ classes: wide
   {% endfor %}
 </div>
 
-<div class="yh-lightbox" id="yh-lightbox" hidden>
+<div class="yh-lightbox" id="yh-lightbox" style="display:none;">
   <button class="yh-lb-close" id="yh-lb-close" aria-label="Close">×</button>
   <button class="yh-lb-nav yh-lb-prev" id="yh-lb-prev" aria-label="Previous">‹</button>
   <img class="yh-lb-img" id="yh-lb-img" alt="">
@@ -62,11 +62,9 @@ classes: wide
     inset: 0;
     background: rgba(0,0,0,0.9);
     z-index: 9999;
-    display: flex;
     align-items: center;
     justify-content: center;
   }
-  .yh-lightbox[hidden] { display: none; }
   .yh-lb-img {
     width: auto;
     height: auto;
@@ -130,14 +128,16 @@ classes: wide
     current.index = ((index - 1 + GROUP_SIZE) % GROUP_SIZE) + 1;
     img.src = '/images/gallery/g' + group + '.' + current.index + '.jpg';
     counter.textContent = current.index + ' / ' + GROUP_SIZE;
-    lb.hidden = false;
+    lb.style.display = 'flex';
     document.body.style.overflow = 'hidden';
   }
 
   function close() {
-    lb.hidden = true;
+    lb.style.display = 'none';
     document.body.style.overflow = '';
   }
+
+  function isOpen() { return lb.style.display === 'flex'; }
 
   document.querySelectorAll('.yh-gallery-item').forEach(function(btn) {
     btn.addEventListener('click', function() { show(btn.dataset.group, 1); });
@@ -156,7 +156,7 @@ classes: wide
   });
 
   document.addEventListener('keydown', function(e) {
-    if (lb.hidden) return;
+    if (!isOpen()) return;
     if (e.key === 'Escape') close();
     if (e.key === 'ArrowLeft') show(current.group, current.index - 1);
     if (e.key === 'ArrowRight') show(current.group, current.index + 1);
