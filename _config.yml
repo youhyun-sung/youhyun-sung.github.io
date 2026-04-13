@@ -4,9 +4,9 @@ title                    : "Youhyun Sung"
 title_separator          : "-"
 name                     : &name "Youhyun Sung"
 description              : &description "German Language & Literature · Hanyang University"
-url                      : https://youhyunsung.github.io
+url                      : https://youhyun-sung.github.io
 baseurl                  : ""
-repository               : "youhyunsung/youhyunsung.github.io"
+repository               : "youhyun-sung/youhyun-sung.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
