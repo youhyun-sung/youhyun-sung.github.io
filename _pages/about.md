@@ -91,7 +91,7 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 
 ## Certificates
 
-- **Goethe Institute C1** — Berlin (Aug. 2015), Korea (Apr. 2014)
+- **Goethe Institute C1** (Apr. 2014)
 - **OPIc English AL** (Jul. 2020)
 - **TOEFL 107** (Aug. 2020)
 
