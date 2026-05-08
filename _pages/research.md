@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Fixation-Dependent Spatial Perception in Reversible Op Art Images.* Visual Science of Art Conference (VSAC) 2026. *Art & Perception*, 13:82.
+**TBD**
 
 ---
 
@@ -19,12 +19,12 @@ author_profile: true
 
 ## Journal Publications
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions.* 48th European Conference on Visual Perception (ECVP) 2026. *Perception*, 50:104.
+**TBD**
 
 ---
 
 ## Conferences
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Fixation-Dependent Spatial Perception in Reversible Op Art Images.* Visual Science of Art Conference (VSAC) 2026. *Art & Perception*, 13:82.
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli.* Visual Science of Art Conference (VSAC) 2026.
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions.* 48th European Conference on Visual Perception (ECVP) 2026. *Perception*, 50:104.
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions.* 48th European Conference on Visual Perception (ECVP) 2026.
