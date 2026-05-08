@@ -20,11 +20,11 @@ author_profile: true
 
 ## Work Experience
 
-**Freelancer** — Frieze Seoul
-*2023 ~ 2024*
+**Frieze Seoul** — Korean Project Manager, Dr. Jörn Günther Rarebooks Gallery, Basel, Switzerland (2023 ~ 2024)
 
-**Part-time Staff, Operation & Planning** — 10th World Congress of Constitutional Law (WCCL), Sungkyunkwan University, Seoul
-*Feb. ~ Jun. 2018*
+**Cheil GmbH** - Intern Project Manager, Samsung's subsidiary for marketing, Frankfurt, Germany (2019 ~ 2020) 
+
+**10th World Congress of Constitutional Law (WCCL)** — Part-time Operation & Planning Staff, Sungkyunkwan University, Seoul (Feb. ~ Jun. 2018)
 
 ---
 
