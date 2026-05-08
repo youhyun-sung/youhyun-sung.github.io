@@ -18,14 +18,14 @@ My research began with a question that has guided me for many years:
 
 During my master's studies in **Aesthetics at Seoul National University**, I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
 
-I am currently studying the intersections of **illusion, visual perception, and empirical aesthetics** through the use of **Op Art images**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, interpret, and assign value to images.
+I am currently studying the intersections of **illusion, visual perception, cognitive science and empirical aesthetics** through the use of **Op Art images**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, interpret, and assign value to images.
 
 ---
 
 ## Research Interests
 - **Visual Perception**
-- **Spatial Perception**
 - **Psychology**
+- **Cognitive Science**
 - **Illusion**
 - **Neuroaesthetics**
 - **Empirical Aesthetics**
@@ -38,7 +38,7 @@ I am currently studying the intersections of **illusion, visual perception, and 
 - **B.A. in German Language & Literature** — Hanyang University, Seoul, Korea (2015 ~ 2021)
   - Entered with honors; graduated with honors
 - **Exchange Student** — University of Stuttgart, Germany (Oct. 2018 ~ Feb. 2019)
-- **Ewha Girls' Foreign Language High School** — German Track, Seoul, Korea (2012 ~ 2015)
+- **Ewha Girls' Foreign Language High School** — Specialized in German, Seoul, Korea (2012 ~ 2015)
 
 ---
 
@@ -48,15 +48,16 @@ I am currently studying the intersections of **illusion, visual perception, and 
 *Principal Investigator: Prof. Christian Wallraven*
 
 - **Project 1:** ECVP — *Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions*
-- **Project 2:** VSAC — *Fixation-Dependent Spatial Perception in Reversible Op Art Images*
+- **Project 2:** VSAC — *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli*
 - **Project 3:** *i-Perception* publication (in preparation)
-- **Project 4:** *Perception* publication (in preparation)
+- **Project 4:** *Art & Perception* publication (in preparation)
 
 ---
 
 ## Work Experience
 
-- **Frieze Seoul** — Freelancer (2023 ~ 2024)
+- **Frieze Seoul** — Korean Project Manager, Dr. Jörn Günther Rarebooks Gallery, Basel, Switzerland (2023 ~ 2024)
+- **Cheil GmbH** - Intern Project Manager, Samsung's subsidiary for marketing, Frankfurt, Germany (2019 ~ 2020) 
 - **10th World Congress of Constitutional Law (WCCL)** — Part-time Operation & Planning Staff, Sungkyunkwan University, Seoul (Feb. ~ Jun. 2018)
 
 ---
@@ -70,9 +71,11 @@ I am currently studying the intersections of **illusion, visual perception, and 
 
 ## Awards & Scholarships
 
-- **2022 ~ 2023** — Seoul National University Mentoring Scholarship
+- **2023 ~ 2023** — Seoul National University Mentoring Scholarship
+- **2020** — Hanyang University Academic Excellence Scholarship
 - **2018 ~ 2019** — Baden-Württemberg Stipendium (~€7,000), University of Stuttgart
-- **2016, 2017** — Hanyang University Academic Excellence Scholarship
+- **2017** — Hanyang University Academic Excellence Scholarship
+- **2016** — Hanyang University Academic Excellence Scholarship
 - **2015** — Goethe Institute Scholarship for C1 Summer Course
 - **2013** — PAD Scholarship (German Government)
 
@@ -83,17 +86,14 @@ I am currently studying the intersections of **illusion, visual perception, and 
 - **Korean** (Native)
 - **English** (Fluent, C1)
 - **German** (Fluent, C1)
-- **French** (Basic, A2–B1)
 
 ---
 
 ## Certificates
 
 - **Goethe Institute C1** — Berlin (Aug. 2015), Korea (Apr. 2014)
-- **OPIc English IH** (Jul. 2020)
-- *Introduction to Marketing* — Wharton School & Coursera (Jul. 2020)
-- *Personal Branding* — University of Virginia & Coursera (Jul. 2020)
-- *Positive Psychology* — University of Pennsylvania & Coursera (Jul. 2020)
+- **OPIc English AL** (Jul. 2020)
+- **TOEFL 107** (Aug. 2020)
 
 ---
 
