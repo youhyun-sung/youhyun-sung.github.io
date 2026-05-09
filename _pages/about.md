@@ -14,7 +14,7 @@ I am currently working as a **Research Assistant** in the [Cognitive Systems Lab
 
 My research began with a question that has guided me for many years:
 
-> *"What forms of perception and experience are uniquely human?"*
+> *"How do perception, cognition, and aesthetic experience shape our understanding of the human mind?"*
 
 During my master's studies in **Aesthetics at Seoul National University**, I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
 
