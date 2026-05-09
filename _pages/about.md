@@ -35,6 +35,7 @@ I am currently studying the intersections of **visual perception, cognitive scie
 
 ## Education
 
+- **RA in Cognitive Systems Lab, Brain & Cognitive Engineering, Korea University** (2025 ~ present)
 - **M.A. in Aesthetics** — Seoul National University, Seoul, Korea (2022 ~ 2026)
 - **B.A. in German Language & Literature** — Hanyang University, Seoul, Korea (2015 ~ 2021)
   - Entered with honors (summa cum laude)
