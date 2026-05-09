@@ -26,7 +26,8 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 - **Visual Perception**
 - **Psychology**
 - **Cognitive Science**
-- **Illusion**
+- **Human Mind**
+- **Art & Technology**
 - **Neuroaesthetics**
 - **Empirical Aesthetics**
 
@@ -36,9 +37,10 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 
 - **M.A. in Aesthetics** — Seoul National University, Seoul, Korea (2022 ~ 2026)
 - **B.A. in German Language & Literature** — Hanyang University, Seoul, Korea (2015 ~ 2021)
-  - Entered with honors; graduated with honors
+  - Entered with honors (summa cum laude)
+  - Graduated with honors (summa cum laude)
 - **Exchange Student** — University of Stuttgart, Germany (Oct. 2018 ~ Feb. 2019)
-- **Ewha Girls' Foreign Language High School** — Specialized in German, Seoul, Korea (2012 ~ 2015)
+- **Ewha Girls’ Foreign Language High School** — Specialized in German, Seoul, Korea (2012 ~ 2015)
 
 ---
 
