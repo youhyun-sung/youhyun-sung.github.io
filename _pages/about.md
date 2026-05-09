@@ -32,14 +32,6 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 
 ---
 
-## Skills
-
-- **Python**
-- **HTML**
-- **JavaScript**
-
----
-
 ## Education
 
 - **M.A. in Aesthetics** — Seoul National University, Seoul, Korea (2022 ~ 2026)
@@ -86,6 +78,14 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 - **2016** — Hanyang University Academic Excellence Scholarship
 - **2015** — Goethe Institute Scholarship for C1 Summer Course
 - **2013** — PAD Scholarship (German Government)
+
+---
+
+## Skills
+
+- **Python**
+- **HTML**
+- **JavaScript**
 
 ---
 
