@@ -32,6 +32,14 @@ I am currently studying the intersections of **illusion, visual perception, cogn
 
 ---
 
+## Skills
+
+- **Python**
+- **HTML**
+- **JavaScript**
+
+---
+
 ## Education
 
 - **M.A. in Aesthetics** — Seoul National University, Seoul, Korea (2022 ~ 2026)
