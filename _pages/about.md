@@ -18,7 +18,7 @@ My research began with a question that has guided me for many years:
 
 During my master's studies in **Aesthetics at Seoul National University**, I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
 
-I am currently studying the intersections of **illusion, visual perception, cognitive science and empirical aesthetics** through the use of **Op Art images**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, interpret, and assign value to images.
+I am currently studying the intersections of **visual perception, cognitive science and empirical aesthetics** through the use of **art**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, think, and interpret.
 
 ---
 
