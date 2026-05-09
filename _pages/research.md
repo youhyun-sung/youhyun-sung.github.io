@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-**Research Assistant** — Cognitive Systems Lab, Korea University<br>
-*2025.11 ~ present*<br>
-*Principal Investigator: Prof. Christian Wallraven*
-
----
-
 ## Submitted
 
 **TBD**
