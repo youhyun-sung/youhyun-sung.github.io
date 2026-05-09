@@ -13,3 +13,10 @@ author_profile: true
 - **Project 2:** VSAC — *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli*
 - **Project 3:** *i-Perception* publication (in preparation)
 - **Project 4:** *Art & Perception* publication (in preparation)
+
+---
+
+## Seminar & Teaching
+
+- **2026** — Organizer of the *Homo Aestheticus Seminar* featuring Visiting Professor Claus-Christian Carbon, Korea University
+- **2025** — Teaching Assistant for *Art and Science*, Seoul National University (1 year)
