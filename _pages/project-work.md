@@ -5,6 +5,14 @@ permalink: /project/work/
 author_profile: true
 ---
 
+### [Alto](http://www.designalto.com/)
+
+- Samsung IFA Berlin 2025 (2025. 8 ~ 9)
+- K-Science UK in Korean Cultural Centre UK (2025. 3)
+- Hyundai Motor Studio Heritage Exhibition Launching Show (2024. 8 ~ 10)
+- Nike Jordan (2023. 3 ~ 6)
+- Nike Global (2022. 2 ~ 6)
+
 ### [Cheil Worldwide](https://www.cheil.com/kr)
 
 - Samsung ILP New York 2025 (2025. 12 ~ 1)
@@ -17,11 +25,3 @@ author_profile: true
 - Frieze Seoul 2025
 - Frieze Seoul 2024
 - Frieze Seoul 2023
-
-### [Alto](http://www.designalto.com/)
-
-- Samsung IFA Berlin 2025 (2025. 8 ~ 9)
-- K-Science UK in Korean Cultural Centre UK (2025. 3)
-- Hyundai Motor Studio Heritage Exhibition Launching Show (2024. 8 ~ 10)
-- Nike Jordan (2023. 3 ~ 6)
-- Nike Global (2022. 2 ~ 6)
