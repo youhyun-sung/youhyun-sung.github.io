@@ -16,7 +16,7 @@ My research began with a question that has guided me for many years:
 
 > *"How do perception, cognition, and aesthetic experience shape our understanding of the human mind?"*
 
-During my master's studies in [**Aesthetics at Seoul National University**](https://meehak.snu.ac.kr/), I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
+During my master's studies in [Aesthetics at Seoul National University](https://meehak.snu.ac.kr/), I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
 
 I am currently studying the intersections of **visual perception, cognitive science and empirical aesthetics** through the use of **art**. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, think, and interpret.
 
