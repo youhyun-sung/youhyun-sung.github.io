@@ -13,7 +13,10 @@ author_profile: true
 
 ## Pre-print Available
 
-**Sung, Y.** (2026). *Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects.* Master's thesis, Seoul National University.
+## Pre-print Available
+
+**Sung, Y.** (2026). *Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects*. Master’s thesis, Seoul National University.  
+Available at OSF: [https://doi.org/10.17605/OSF.IO/M32EV](https://doi.org/10.17605/OSF.IO/M32EV)
 
 ---
 
