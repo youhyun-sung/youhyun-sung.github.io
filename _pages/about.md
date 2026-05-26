@@ -24,12 +24,40 @@ I am currently studying the intersections of **visual perception, cognitive scie
 
 ## Research Interests
 - **Visual Perception**
-- **Psychology**
-- **Cognitive Science**
-- **Human Mind**
-- **Art & Technology**
+- **Visual Cognition**
+- **Illusions**
+- **Perceptual Ambiguity**
+- **Art and Visual Experience**
 - **Neuroaesthetics**
 - **Empirical Aesthetics**
+
+---
+
+## Skills
+
+### Research & Experimental Skills
+- Behavioral experiment design
+- Online experiment implementation
+- Psychophysics and visual perception tasks
+- Stimulus design and visual control
+- Data cleaning and statistical analysis
+- EEG experiment preparation
+
+### Technical Skills
+- JavaScript / HTML / CSS
+- Python / pandas
+- GitHub / VS Code
+- OSF and open science workflow
+- LaTeX / Overleaf
+
+### Theoretical Expertise
+- Visual perception
+- Visual cognition
+- Perceptual ambiguity
+- Neuroaesthetics
+- Empirical aesthetics
+- Art and visual experience
+- Afterimages and visual aftereffects
 
 ---
 
