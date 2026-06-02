@@ -4,4 +4,4 @@ order: 7
 title: "Exhibition"
 photos: 3
 ---
-전시장에서.
+Appreciating my favorite artworks🖼️
