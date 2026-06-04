@@ -42,8 +42,7 @@ I am currently studying the intersections of **visual perception, cognitive scie
 ### Technical Skills
 - Experimental programming - JavaScript, HTML/CSS
 - Data analysis - Python, pandas
-- EEG
-- Eye-tracking (Tobii)
+- Research instrumentation - EEG, eye-tracking (Tobii)
 - Research workflow - GitHub, OSF, LaTeX/Overleaf
 
 ---
