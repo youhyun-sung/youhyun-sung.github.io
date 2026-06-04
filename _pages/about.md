@@ -23,12 +23,12 @@ I am currently studying the intersections of **visual perception, cognitive scie
 ---
 
 ## Research Interests
-- visual perception & cognition
-- illusions
-- perceptual ambiguity
-- art and visual experience
-- neuroaesthetics
-- empirical aesthetics
+- Visual perception & cognition
+- Illusions
+- Perceptual ambiguity
+- Art and visual experience
+- Neuroaesthetics
+- Empirical aesthetics
 
 ---
 
@@ -40,11 +40,11 @@ I am currently studying the intersections of **visual perception, cognitive scie
 - Data cleaning and statistical analysis
 
 ### Technical Skills
-- experimental programming - JavaScript, HTML/CSS
+- Experimental programming - JavaScript, HTML/CSS
 - Data analysis - Python, pandas
 - EEG
-- eye-tracking (Tobii)
-- research workflow - GitHub, OSF, LaTeX/Overleaf
+- Eye-tracking (Tobii)
+- Research workflow - GitHub, OSF, LaTeX/Overleaf
 
 ---
 
