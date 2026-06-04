@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+
+  <body class="home-page">
+    <header class="home-nav">
+      <a class="home-nav__name" href="{{ '/' | relative_url }}">Youhyun Sung</a>
+
+      <nav class="home-nav__links" aria-label="Primary navigation">
+        <a href="{{ '/about/' | relative_url }}">About Me</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
+        <a href="{{ '/cv/' | relative_url }}">CV</a>
+      </nav>
+    </header>
+
+    <main class="home-main">
+      {{ content }}
+    </main>
+  </body>
+</html>

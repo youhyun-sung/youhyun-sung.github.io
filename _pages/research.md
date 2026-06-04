@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: about
 title: "Research"
 permalink: /research/
-author_profile: true
 ---
 
 ## Submitted

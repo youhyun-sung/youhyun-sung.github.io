@@ -1,9 +1,9 @@
 main:
   - title: "About"
-    url: "/"
+    url: /about/
   - title: "CV"
     url: "/cv/"
-  - title: "Experience"
-    url: "/experience/"
+  #- title: "Experience"
+  #  url: "/experience/"
   - title: "Contact"
     url: "/contact/"
