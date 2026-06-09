@@ -89,3 +89,32 @@ permalink: /
     <span>and empirical aesthetics.</span>
   </p>
 </section>
+
+{% assign recent_news = site.data.recent_news | where_exp: "item", "item.hidden != true" %}
+{% if recent_news and recent_news.size > 0 %}
+<section class="home-news" aria-labelledby="recent-news-title">
+  <h2 id="recent-news-title">Recent News</h2>
+
+  <ol class="home-news__list">
+    {% for item in recent_news %}
+      <li class="home-news__item">
+        <time class="home-news__date" datetime="{{ item.date | date: '%Y-%m-%d' }}">
+          {{ item.date | date: "%b %-d, %Y" }}
+        </time>
+
+        <div class="home-news__content">
+          {% if item.url %}
+            <a class="home-news__title" href="{{ item.url }}">{{ item.title }}</a>
+          {% else %}
+            <span class="home-news__title">{{ item.title }}</span>
+          {% endif %}
+
+          {% if item.description %}
+            <p>{{ item.description }}</p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
