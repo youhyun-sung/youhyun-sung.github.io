@@ -14,7 +14,7 @@
 
 - date: "2026-05-30"
   title: "VSAC 2026 Accepted (Oral Presentation)"
-  description: "<em>Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions</em> has been accepted and selected for oral presentation at the Visual Science of Art Conference(VSAC)."
+  description: "<em>Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli</em> has been accepted and selected for oral presentation at the Visual Science of Art Conference(VSAC)."
   url:
   hidden: false
 
@@ -22,4 +22,10 @@
   title: "M.A. Graduation in Aesthetics at SNU"
   description: "I graduated from the department of Aesthetics at Seoul National University on Feb. 25, completing my master's thesis in neuroaesthetics, <em>Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects.</em>"
   url: https://doi.org/10.17605/OSF.IO/M32EV
+  hidden: false
+
+- date: "2026-11-01"
+  title: "Joined Cognitive Systems Lab at Korea University"
+  description: "I joined the Cognitive Systems Lab as a research intern under Prof. Christian Wallraven in the Department of Brain and Cognitive Engineering and the Department of Artificial Intelligence at Korea University."
+  url:
   hidden: false
