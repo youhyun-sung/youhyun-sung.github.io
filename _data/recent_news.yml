@@ -20,8 +20,8 @@
 
 - date: "2026-02-25"
   title: "M.A. Graduation in Aesthetics at SNU"
-  description: "I graduated from the department of Aesthetics at Seoul National University on Feb. 25, completing my master's thesis in neuroaesthetics, <em>Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects.</em>"
-  url: https://doi.org/10.17605/OSF.IO/M32EV
+  description: "I graduated from the department of Aesthetics at Seoul National University on Feb. 25, completing my master's thesis in neuroaesthetics, <a href=\"https://doi.org/10.17605/OSF.IO/M32EV\"><em>Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects.</em></a>"
+  url:
   hidden: false
 
 - date: "2026-11-01"
