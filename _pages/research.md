@@ -20,7 +20,7 @@ permalink: /research/
 
 ## Manuscript
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Aesthetic Appreciation of Op Art Under Brief and Self-Directed Viewing Conditions*. Manuscript in preparation.
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. *Aesthetic Appreciation of Op Art Under Brief and Self-Directed Viewing Conditions*. Manuscript in preparation.
 
 Sung, M., **Sung, Y.**, Malak, C. *Seeing the Whole from Parts: Comparing Human and AI 3D Reasoning from Partial Views*. Manuscript in preparation.
 
