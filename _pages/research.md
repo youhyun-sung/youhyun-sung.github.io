@@ -18,18 +18,21 @@ permalink: /research/
 
 ---
 
+## Manuscript
+
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. (2026). *Aesthetic Appreciation of Op Art Under Brief and Self-Directed Viewing Conditions*. Manuscript in preparation.
+
+Sung, M., **Sung, Y.**, Malak, C. *Seeing the Whole from Parts: Comparing Human and AI 3D Reasoning from Partial Views*. Manuscript in preparation.
+
+**Sung, Y.**, & Malak, C. *Neural Responses to Face-Like Forms: An EEG Study of Pareidolia Across Primates, Mammals, and Objects.* Manuscript in preparation. *Equal contribution.*
+
+---
+
 ## Pre-print
 
 **Sung, Y.** (2026). *Op Art and Its Visual Effect: Focusing on the Neural Mechanisms of Aftereffects*. Master’s thesis, Seoul National University.  
 Available at OSF: [https://doi.org/10.17605/OSF.IO/M32EV](https://doi.org/10.17605/OSF.IO/M32EV)
 
----
-
-## Manuscript
-
-Sung, M., **Sung, Y.**, Malak, C. *Seeing the Whole from Parts: Comparing Human and AI 3D Reasoning from Partial Views*. Manuscript in preparation.
-
-**Sung, Y.**, & Malak, C. *Neural Responses to Face-Like Forms: An EEG Study of Pareidolia Across Primates, Mammals, and Objects.* Manuscript in preparation. *Equal contribution.*
 
 ---
 
