@@ -7,13 +7,13 @@
 # - 삭제: remove the whole item block, from "- date:" through "hidden:".
 
 - date: "2026-06-09"
-  title: "ECVP 2026 Accepted (Poster)"
+  title: "ECVP 2026 Accepted <em>(Poster)</em>"
   description: "<em>Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions</em> has been accepted for presentation at the 48th European Conference on Visual Perception(ECVP)."
   url:
   hidden: false
 
 - date: "2026-05-30"
-  title: "VSAC 2026 Accepted (Oral Presentation)"
+  title: "VSAC 2026 Accepted <em>(Oral Presentation)</em>"
   description: "<em>Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli</em> has been accepted and selected for oral presentation at the Visual Science of Art Conference(VSAC)."
   url:
   hidden: false
@@ -24,7 +24,7 @@
   url:
   hidden: false
 
-- date: "2026-11-01"
+- date: "2025-11-01"
   title: "Joined Cognitive Systems Lab at Korea University"
   description: "I joined the Cognitive Systems Lab as a research intern under Prof. Christian Wallraven in the Department of Brain and Cognitive Engineering and the Department of Artificial Intelligence at Korea University."
   url:
