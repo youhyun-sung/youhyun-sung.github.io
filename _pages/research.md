@@ -38,5 +38,6 @@ Available at OSF: [https://doi.org/10.17605/OSF.IO/M32EV](https://doi.org/10.176
 
 ## Seminar & Teaching
 
+- **2026** — Led the *AI-assisted Academic Writing Seminar*, Seoul National University
 - **2026** — Organizer of the *Homo Aestheticus Seminar* featuring Visiting Professor Claus-Christian Carbon, Korea University
 - **2025** — Teaching Assistant for *Art and Science*, Seoul National University (1 year)

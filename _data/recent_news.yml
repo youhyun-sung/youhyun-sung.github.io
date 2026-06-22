@@ -6,6 +6,12 @@
 # - 기록: set hidden: true to keep the record here without showing it on the site.
 # - 삭제: remove the whole item block, from "- date:" through "hidden:".
 
+- date: "2026-06-24"
+  title: "AI-assisted Academic Writing Seminar at SNU"
+  description: "I led a seminar on AI-assisted academic paper writing at Seoul National University."
+  url:
+  hidden: false
+
 - date: "2026-06-09"
   title: "ECVP 2026 Accepted <em>(Poster)</em>"
   description: "<em>Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions</em> has been accepted for presentation at the <a href=\"https://ecvp2026.uk/index.html\">48th European Conference on Visual Perception(ECVP)</a>."
