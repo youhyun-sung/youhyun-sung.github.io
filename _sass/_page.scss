@@ -100,6 +100,18 @@
     font-size: $type-size-6;
   }
 
+  .project-video {
+    margin: 0 0 1.25em;
+
+    video {
+      display: block;
+      width: 100%;
+      max-width: 900px;
+      height: auto;
+      background: #000;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
