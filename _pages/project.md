@@ -21,7 +21,7 @@ permalink: /project/
   </video>
 </figure>
 
-This project examines whether spatial ambiguity contributes to aesthetic preference by comparing Op Art stimuli with visually matched control images. The experimental demo shows how participants encounter images that vary in perceived ambiguity, allowing us to ask whether ambiguous spatial organization changes how artworks are evaluated.
+How does spatial ambiguity affect the way we aesthetically evaluate visual images? This project compares Op Art stimuli with visually matched control images to test whether ambiguous spatial organization enhances aesthetic preference. The demo shows how participants view, judge, and re-evaluate images across different viewing conditions, revealing how ambiguity, perception, and self-directed exploration interact in aesthetic experience.
 
 ---
 

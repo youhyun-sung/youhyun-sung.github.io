@@ -103,7 +103,7 @@
   .project-video {
     display: block;
     width: 100%;
-    max-width: 720px;
+    max-width: 480px;
     margin: 24px auto;
     overflow: hidden;
 
@@ -111,6 +111,7 @@
     iframe {
       display: block;
       width: 100%;
+      max-width: 100%;
       height: auto;
       margin: 0;
       border: 0;
@@ -121,6 +122,12 @@
     iframe {
       aspect-ratio: 16 / 9;
     }
+  }
+
+  figure.project-video video,
+  figure.project-video iframe {
+    width: 100%;
+    max-width: 100%;
   }
 
   /* blockquote citations */
