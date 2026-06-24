@@ -42,4 +42,16 @@ Sung, Y., Sung, M., Carbon, C., & Wallraven, C. (2026). *Does Spatial Ambiguity 
 ## Art? Illusion?
 {: #art-illusion}
 
-**TBD**
+<figure class="project-video">
+  <video controls playsinline preload="metadata">
+    <source src="/assets/videos/art-illusion-demo.MP4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>
+
+<p class="project-meta">Op Art · Illusions · Aesthetic Valuation</p>
+
+What makes an image worth paying for? This experiment examines whether visually striking images are valued differently when they are presented as artworks rather than as optical illusions. Participants freely browsed 48 visual stimuli, including 24 Op Art images and 24 matched optical illusion images, and entered how much they would personally be willing to pay for each one. By measuring willingness to pay rather than estimated market price, the project investigates how artistic framing, perceptual intensity, and subjective valuation interact in aesthetic experience.
+
+**Related presentation**  
+Sung, Y., Sung, M., Carbon, C., & Wallraven, C. (2026). *Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions.* 48th European Conference on Visual Perception (ECVP) 2026.
