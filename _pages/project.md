@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Project"
+title: "Projects"
 permalink: /project/
 ---
 
