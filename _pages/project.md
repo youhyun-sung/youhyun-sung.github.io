@@ -14,6 +14,8 @@ permalink: /project/
   </video>
 </figure>
 
+<p class="project-meta">Eye-tracking pilot study · Afterimage · Visual perception</p>
+
 Can an invisible visual experience become visible through behavior? *Tracing the Invisible* explores whether afterimages—subjective visual experiences that remain after a stimulus disappears—can be traced through eye movements. Using eye-tracking, this pilot project records how participants follow the fading afterimage with their gaze, transforming an invisible perceptual experience into measurable behavioral data.
 
 ---
@@ -27,6 +29,8 @@ Can an invisible visual experience become visible through behavior? *Tracing the
     Your browser does not support the video tag.
   </video>
 </figure>
+
+<p class="project-meta">Op Art · Spatial Ambiguity · Aesthetic Preference</p>
 
 How does spatial ambiguity affect the way we aesthetically evaluate visual images? This project compares Op Art stimuli with visually matched control images to test whether ambiguous spatial organization enhances aesthetic preference. The demo shows how participants view, judge, and re-evaluate images across different viewing conditions, revealing how ambiguity, perception, and self-directed exploration interact in aesthetic experience.
 
