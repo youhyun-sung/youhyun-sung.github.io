@@ -7,6 +7,13 @@ permalink: /project/
 ## Tracing The Invisible
 {: #tracing-the-invisible}
 
+<figure class="project-video">
+  <video controls playsinline preload="metadata">
+    <source src="/assets/videos/Tracing-the-Invisible.MP4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>
+
 **TBD**
 
 ---
