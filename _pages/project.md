@@ -14,7 +14,7 @@ permalink: /project/
   </video>
 </figure>
 
-**TBD**
+Can an invisible visual experience become visible through behavior? *Tracing the Invisible* explores whether afterimages—subjective visual experiences that remain after a stimulus disappears—can be traced through eye movements. Using eye-tracking, this pilot project records how participants follow the fading afterimage with their gaze, transforming an invisible perceptual experience into measurable behavioral data.
 
 ---
 
