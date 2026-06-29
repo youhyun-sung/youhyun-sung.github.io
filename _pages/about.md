@@ -13,7 +13,7 @@ I am currently working as a Research Assistant in the [Cognitive Systems Lab](ht
 
 My research began with a question that has guided me for many years:
 
-> *“How do perception, cognition, and aesthetic experience shape our understanding of the human mind?”*
+> *“How do visual cognition, spatial ambiguity, and perceptual organization shape the ways we see and interpret the world, with aesthetic experience offering one window into these processes?”*
 
 During my master’s studies in [Aesthetics at Seoul National University](https://meehak.snu.ac.kr/), I explored this question through the lens of **neuroaesthetics**. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
 
@@ -24,9 +24,9 @@ I am currently studying the intersections of **visual perception, cognitive scie
 ## Research Interests
 
 - Visual perception & cognition
-- Illusions
 - Perceptual ambiguity
-- Art and visual experience
+- Psychology
+- Illusion
 - Neuroaesthetics
 - Empirical aesthetics
 
