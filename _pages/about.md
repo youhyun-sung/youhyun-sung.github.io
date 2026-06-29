@@ -63,4 +63,4 @@ I am currently studying the intersections of **visual perception, cognitive scie
   Graduated with honors (*summa cum laude*)
 
 - **Exchange Student** (Oct. 2018 ~ Feb. 2019)  
-  Universität Konstanz
+  Universität Stuttgart
