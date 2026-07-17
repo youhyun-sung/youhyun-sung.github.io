@@ -4,9 +4,9 @@ title: "Publication"
 permalink: /research/
 ---
 
-## Journal Publication
+## Publications
 
-**TBD**
+**Sung, Y.**, Sung, M., Carbon, C., & Wallraven, C. (2026). *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli.* **Art & Perception**. Accepted abstract, to be published.
 
 ---
 
