@@ -20,9 +20,7 @@ permalink: /research/
 
 ## Manuscript
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. *Aesthetic Appreciation of Op Art Under Brief and Self-Directed Viewing Conditions*. Manuscript in preparation.
-
-**Sung, Y.**, & Malak, C. *Neural Responses to Face-Like Forms: An EEG Study of Pareidolia Across Primates, Mammals, and Objects.* Manuscript in preparation. *Equal contribution.*
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. *More Ambiguous, Not More Preferred: Spatial Ambiguity and Aesthetic Preference in Op Art*. Manuscript in preparation.
 
 ---
 
