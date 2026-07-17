@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-**Sung, Y.**, Sung, M., Carbon, C., & Wallraven, C. (2026). *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli.* **Art & Perception**. Accepted abstract, to be published.
+**Sung, Y.**, Sung, M., Carbon, C., & Wallraven, C. (2026). *Does Spatial Ambiguity Contribute to Aesthetic Preference? Evidence from Op Art and Matched Control Stimuli.* *Art & Perception*. Accepted abstract, to be published.
 
 ---
 
