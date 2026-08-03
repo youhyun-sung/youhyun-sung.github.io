@@ -25,7 +25,8 @@ I am currently studying the intersections of visual perception, cognitive scienc
 
 - Visual perception & cognition
 - Perceptual ambiguity
-- Psychology
+- Afterimage
+- Visual aftereffect
 - Illusion
 - Neuroaesthetics
 - Empirical aesthetics
