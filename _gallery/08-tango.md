@@ -4,4 +4,4 @@ order: 8
 title: "Tango"
 photos: 3
 ---
-Tango actually helps you live healthier and longer💃
+I was a sub-champion in two categories at the Asian Tango Championship.
