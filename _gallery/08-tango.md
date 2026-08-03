@@ -4,4 +4,4 @@ order: 8
 title: "Tango"
 photos: 3
 ---
-I was a sub-champion in two categories at the Asian Tango Championship.
+I won second prize in two categories at the Asian Tango Championship, earning the title of Asian Tango sub-champion.
