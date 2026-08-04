@@ -48,6 +48,12 @@ I am currently studying the intersections of visual perception, cognitive scienc
 - Research instrumentation – EEG, eye-tracking (Tobii)
 - Research workflow – GitHub, OSF, LaTeX/Overleaf
 
+### Language Skills
+
+- IELTS Overall 8 (LC 8.5, RC 8.5, WR 7.5, SP 7.5)
+- TOEFL iBT 107 (LC 26, RC 26, WR 28, SP 27)
+- Goethe Zertifikat Deutsch C1
+
 ---
 
 ## Education
