@@ -45,7 +45,7 @@ I am currently studying the intersections of visual perception, cognitive scienc
 
 - Experimental programming – JavaScript, HTML/CSS
 - Data analysis – Python, pandas
-- Research instrumentation – EEG, eye-tracking (Tobii)
+- Research instrumentation – EEG, eye-tracking (Tobii Pro)
 - Research workflow – GitHub, OSF, LaTeX/Overleaf
 
 ### Language Skills
