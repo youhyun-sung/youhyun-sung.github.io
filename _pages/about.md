@@ -11,25 +11,31 @@ Hello! I’m Youhyun (Amy) Sung.
 
 I am currently working as a Research Assistant in the [Cognitive Systems Lab](https://cogsyslab.notion.site/) at Korea University’s Brain and Cognitive Engineering department, under the supervision of [Professor Christian Wallraven](https://scholar.google.com/citations?hl=en&user=VJuzLwAAAAJ).
 
-My research began with a question that has guided me for many years:
+My research is driven by a fundamental question:
 
-> *“How do visual cognition, spatial ambiguity, and perceptual organization shape the ways we see and interpret the world, with aesthetic experience offering one window into these processes?”*
+> *“Why can the same visual input give rise to different perceptual experiences across observers?”*
 
-During my master’s studies in [Aesthetics at Seoul National University](https://meehak.snu.ac.kr/), I explored this question through the lens of neuroaesthetics. I came to see art not simply as an object of appreciation, but as a window into the mechanisms of human visual perception and the workings of the mind.
+I am particularly interested in how the visual system organizes ambiguous or unstable sensory information, how observers selectively sample and weight visual evidence, and how these processes shape perceptual interpretation.
 
-I am currently studying the intersections of visual perception, cognitive science and empirical aesthetics through the use of art. My research is driven by an interest in how aesthetic experience connects to perceptual mechanisms — and in how humans see, think, and interpret.
+During my master’s studies in [Aesthetics at Seoul National University](https://meehak.snu.ac.kr/), I approached these questions through neuroaesthetics, studying how perceptual phenomena such as visual ambiguity, illusion, and aftereffects can illuminate the mechanisms underlying aesthetic experience.
+
+This work led me to view art not simply as an object of aesthetic judgment, but as a particularly rich domain for investigating fundamental mechanisms of visual perception and cognition.
+
+I am currently investigating how ambiguous visual information is transformed into perceptual decisions, with particular interest in perceptual organization, attentional selection, evidence sampling, and individual differences in perceptual interpretation.
+
+More broadly, I aim to understand how the brain constructs coherent perceptual experiences from sensory information that is inherently incomplete, unstable, or open to multiple interpretations.
 
 ---
 
 ## Research Interests
 
 - Visual perception & cognition
-- Perceptual ambiguity
-- Afterimage
-- Visual aftereffect
-- Illusion
+- Perceptual ambiguity & organization
+- Visual attention & evidence sampling
+- Perceptual decision-making
+- Individual differences in perception
+- Visual illusions & aftereffects
 - Neuroaesthetics
-- Empirical aesthetics
 
 ---
 
