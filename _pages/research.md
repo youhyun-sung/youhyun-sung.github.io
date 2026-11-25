@@ -18,9 +18,9 @@ permalink: /research/
 
 ---
 
-## Manuscript
+## Under Review
 
-**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. *More Ambiguous, Not More Preferred: Spatial Ambiguity and Aesthetic Preference in Op Art*. Manuscript in preparation.
+**Sung, Y.**, Sung, M., Carbon, C., Wallraven, C. *More Ambiguous, Not More Preferred: Spatial Ambiguity and Aesthetic Preference in Op Art*. Under revision.
 
 ---
 
