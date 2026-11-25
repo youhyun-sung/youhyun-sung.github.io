@@ -6,6 +6,12 @@
 # - 기록: set hidden: true to keep the record here without showing it on the site.
 # - 삭제: remove the whole item block, from "- date:" through "hidden:".
 
+- date: "2026-11-17"
+  title: "Guest Lecture on Op Art and Visual Aftereffects at SNU"
+  description: "I gave a guest lecture on Op Art and the neural mechanisms underlying visual aftereffects in <em>Art and Science</em>, a general education course at Seoul National University."
+  url:
+  hidden: false
+
 - date: "2026-06-09"
   title: "ECVP 2026 Accepted <em>(Poster)</em>"
   description: "<em>Art wins: Higher Valuation Responses to Op Art Compared to Matched Optical Illusions</em> has been accepted for presentation at the <a href=\"https://ecvp2026.uk/index.html\">48th European Conference on Visual Perception(ECVP)</a>."

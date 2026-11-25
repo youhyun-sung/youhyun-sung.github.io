@@ -46,11 +46,12 @@ analytics:
 # Site Author
 author:
   name             : "Youhyun Sung"
-  avatar           : "profile.jpeg"
+  avatar           : "profile2.jpg"
   bio              : "German Language & Literature · Hanyang University"
   email            : "youhyun8808@gmail.com"
   uri              :
   github           : "youhyunsung"
+  google_scholar   : "https://scholar.google.com/citations?user=nUJvJZMAAAAJ&hl=ko"
   instagram        : "yhynnn"
   linkedin         :
 

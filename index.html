@@ -9,7 +9,7 @@ permalink: /
 
     <div class="home-card">
       <div class="home-card__image">
-        <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Portrait of Youhyun Sung">
+        <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Portrait of Youhyun Sung">
       </div>
 
       <div class="home-card__info">
@@ -71,6 +71,11 @@ permalink: /
     <a href="https://www.researchgate.net/profile/Youhyun-Sung?ev=hdr_xprf" target="_blank" rel="noopener">
       <i class="ai ai-researchgate" aria-hidden="true"></i>
       <span>ResearchGate</span>
+    </a>
+
+    <a href="{{ site.author.google_scholar | escape }}" target="_blank" rel="noopener">
+      <i class="ai ai-google-scholar" aria-hidden="true"></i>
+      <span>Google Scholar</span>
     </a>
   </div>
 </section>
