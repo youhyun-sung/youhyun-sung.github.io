@@ -79,6 +79,8 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - config
+  - files/youhyun-sung-cv.pdf
+  - files/youhyun-sung-cv.tex
   - gulpfile.js
   - log
   - node_modules

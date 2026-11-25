@@ -34,5 +34,6 @@ Available at OSF: [https://doi.org/10.17605/OSF.IO/M32EV](https://doi.org/10.176
 
 ## Seminar & Teaching
 
+- **Nov 17, 2026** — Guest lecture on Op Art and the neural mechanisms underlying visual aftereffects in *Art and Science*, a general education course at Seoul National University
 - **2026** — Organizer of the *Homo Aestheticus Seminar* featuring Visiting Professor Claus-Christian Carbon, Korea University
 - **2025** — Teaching Assistant for *Art and Science*, Seoul National University (1 year)

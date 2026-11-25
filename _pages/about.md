@@ -51,7 +51,14 @@ More broadly, I aim to understand how the brain constructs coherent perceptual e
 
 - Experimental programming – JavaScript, HTML/CSS
 - Data analysis – Python, pandas
-- Research instrumentation – EEG, eye-tracking (Tobii Pro)
+- Research instrumentation
+  - Facial Electromyography (fEMG)
+  - Electrocardiography (ECG)
+  - Electrodermal Activity (EDA)
+  - Respiratory Recording (RSP)
+  - Transcutaneous Auricular Vagus Nerve Stimulation (taVNS)
+  - Electroencephalography (EEG)
+  - Eye-tracking (Tobii Pro)
 - Research workflow – GitHub, OSF, LaTeX/Overleaf
 
 ### Language Skills
